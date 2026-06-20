@@ -1,21 +1,18 @@
-## Hi there 👋
+H## Hi there 👋
 
 <!--
 **Taroonn456/Taroonn456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔬 CSE undergrad (ANITS, '27) building at the intersection of quantum computing and ML
+🧬 Current research: QAMR-Ef — hybrid VQC + classical ensemble pipeline for antibiotic 
+   bioactivity classification (92% acc, ROC-AUC 0.96) — targeting IEEE QCE 2026
+☁️ Founder, AWS Student Builder Group @ ANITS (300+ Builder IDs) | AWS New Voices 2026
+🛠️ Building: ExamEval AI (OCR+LLM grading), AI Knowledge Hub
+🎯 Long-term: founding something of my own
 -->
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 
 
 ## 🌐 Socials:
